@@ -19,3 +19,6 @@ execute certain info is missing in abstract.
 
 Info tech adopt worth in that Class Lang is 1 thousand 492 if
 C# style generic is added to it.
+
+Info tech adopt worth in that Class Lang is 13 if
+C# style reflection invoke is added to it.
