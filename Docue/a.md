@@ -14,6 +14,9 @@ execute certain abstract and effect load execute certain abstract.
 
 Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
 
+Info tech adopt worth in Class Lang is 1 billion 391 million 803 thousand if
+execute certain info except operate tier info is missing in abstract.
+
 Info tech adopt worth in Class Lang is 876 thousand if
 execute certain info is missing in abstract.
 
