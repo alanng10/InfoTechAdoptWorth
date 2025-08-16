@@ -13,3 +13,6 @@ Info tech adopt worth base adopt unit is
 execute certain abstract and effect load execute certain abstract.
 
 Info tech adopt worth in Class Lang is 5 billion 632 million 406 thousand.
+
+Info tech adopt worth in Class Lang is 874 thousand if
+execute certain info is missing in abstract.
