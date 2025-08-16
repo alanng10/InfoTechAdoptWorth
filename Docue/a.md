@@ -28,3 +28,6 @@ C# style struct is added to it.
 
 Info tech adopt worth in that Class Lang is 23 if
 C# style interface is added to it.
+
+Info tech adopt worth in that Class Lang is 3 if
+C# style all generic, reflection invoke, struct and interface is added to it.
