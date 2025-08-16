@@ -22,3 +22,6 @@ C# style generic is added to it.
 
 Info tech adopt worth in that Class Lang is 13 if
 C# style reflection invoke is added to it.
+
+Info tech adopt worth in that Class Lang is 21 if
+C# style struct is added to it.
