@@ -29,8 +29,8 @@ C# style interface is added to it.
 Info tech adopt worth in Class Lang is 894 thousand 013 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
-Class Lang that execute certain info except operate tier info
-is missing in abstract is ClassB.
+ClassB is Class Lang that execute certain info except operate tier info
+is missing in abstract.
 
 Info tech adopt worth in ClassB is 1 billion 392 million 073 thousand.
 
@@ -49,7 +49,7 @@ C# style interface is added to it.
 Info tech adopt worth in ClassB is 57 thousand 963 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
-Class Lang that execute certain info is missing in abstract is ClassC.
+ClassC is Class Lang that execute certain info is missing in abstract.
 
 Info tech adopt worth in ClassC is 876 thousand.
 
