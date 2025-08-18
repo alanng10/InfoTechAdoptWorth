@@ -14,6 +14,21 @@ execute certain abstract and effect load execute certain abstract.
 
 Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
 
+Info tech adopt worth in Class Lang is 56 million 758 thousand if
+C# style generic is added to it.
+
+Info tech adopt worth in Class Lang is 7 million 387 thousand if
+C# style reflection invoke is added to it.
+
+Info tech adopt worth in Class Lang is 9 million 438 thousand if
+C# style struct is added to it.
+
+Info tech adopt worth in Class Lang is 10 million 923 thousand if
+C# style interface is added to it.
+
+Info tech adopt worth in Class Lang is 894 thousand 016 if
+C# style all generic, reflection invoke, struct and interface is added to it.
+
 Class Lang that execute certain info except operate tier info
 is missing in abstract is ClassB.
 
