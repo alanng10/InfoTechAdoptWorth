@@ -17,9 +17,9 @@ Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
 Info tech adopt worth in Class Lang is 1 billion 392 million 073 thousand if
 execute certain info except operate tier info is missing in abstract.
 
-Info tech adopt worth in Class Lang is 876 thousand if
-execute certain info is missing in abstract.
-This Class Lang is ClassC.
+Class Lang that execute certain info is missing in abstract is ClassC.
+
+Info tech adopt worth in ClassC is 876 thousand.
 
 Info tech adopt worth in ClassC is 1 thousand 493 if
 C# style generic is added to it.
