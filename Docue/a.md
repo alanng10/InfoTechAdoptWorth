@@ -14,8 +14,25 @@ execute certain abstract and effect load execute certain abstract.
 
 Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
 
-Info tech adopt worth in Class Lang is 1 billion 392 million 073 thousand if
-execute certain info except operate tier info is missing in abstract.
+Class Lang that execute certain info except operate tier info
+is missing in abstract is ClassB.
+
+Info tech adopt worth in ClassB is 1 billion 392 million 073 thousand.
+
+Info tech adopt worth in ClassB is 3 million 043 thousand if
+C# style generic is added to it.
+
+Info tech adopt worth in ClassB is 621 thousand if
+C# style reflection invoke is added to it.
+
+Info tech adopt worth in ClassB is 925 thousand if
+C# style struct is added to it.
+
+Info tech adopt worth in ClassB is 1 million 214 thousand if
+C# style interface is added to it.
+
+Info tech adopt worth in ClassB is 57 thousand 963 if
+C# style all generic, reflection invoke, struct and interface is added to it.
 
 Class Lang that execute certain info is missing in abstract is ClassC.
 
