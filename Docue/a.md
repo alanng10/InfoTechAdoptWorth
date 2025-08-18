@@ -26,7 +26,7 @@ C# style struct is added to it.
 Info tech adopt worth in Class Lang is 10 million 923 thousand if
 C# style interface is added to it.
 
-Info tech adopt worth in Class Lang is 894 thousand 016 if
+Info tech adopt worth in Class Lang is 894 thousand 013 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
 Class Lang that execute certain info except operate tier info
