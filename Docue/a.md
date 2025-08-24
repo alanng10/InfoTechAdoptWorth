@@ -4,13 +4,13 @@ Info tech adopt has very high worth.
 
 Class Lang is Class Lang defined by Alan Ng.
 
-Info tech adopt worth is quadruple of total abstract opacity,
+Info tech adopt worth is quadruple of total class opacity,
 relative to 1 base adopt unit.
 
 Info tech adopt worth base adopt unit is
 1 human with only enough cloth and editor and termina and Class Lang require including USB port and no other tool adopt
 1 module tool that output what is written in a text file in console, with heap
-execute certain abstract and effect load execute certain abstract.
+execute certain class and effect load execute certain class.
 
 Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
 
@@ -29,7 +29,7 @@ C# style interface is added to it.
 Info tech adopt worth in Class Lang is 894 thousand 013 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
-ClassB is Class Lang that execute certain info is missing in abstract, except
+ClassB is Class Lang that execute certain info is missing in class, except
 that operate tier info is present.
 
 Info tech adopt worth in ClassB is 1 billion 392 million 073 thousand.
@@ -49,7 +49,7 @@ C# style interface is added to it.
 Info tech adopt worth in ClassB is 57 thousand 963 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
-ClassC is Class Lang that execute certain info is missing in abstract.
+ClassC is Class Lang that execute certain info is missing in class.
 
 Info tech adopt worth in ClassC is 876 thousand.
 
