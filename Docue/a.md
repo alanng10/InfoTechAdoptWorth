@@ -2,10 +2,10 @@
 
 Info tech adopt has very high worth.
 
+Class Lang is Class Lang defined by Alan Ng.
+
 Info tech adopt worth is quadruple of total abstract opacity,
 relative to 1 base adopt unit.
-
-Class Lang is Class Lang defined by Alan Ng.
 
 Info tech adopt worth base adopt unit is
 1 human with only enough cloth and editor and termina and Class Lang require including USB port and no other tool adopt
