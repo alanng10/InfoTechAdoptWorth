@@ -16,7 +16,7 @@ The unit is mul with total cross worth.
 The mul is not tagged with the existence of the info tech inner processing.
 The mul is not tagged with the existence of the info tech implem.
 The mul is not apply to byte that is tagged with existence of
-of any inner processing orn any implem.
+any inner processing orn any implem.
 The mul is not apply to byte that is not in class.
 
 Info tech adopt worth in Class Lang is 5 billion 728 million 941 thousand.
